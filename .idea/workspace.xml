@@ -2,7 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e542ff-d225-4bf1-95d0-69a3c76677ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pgbooking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pgbooking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pgbooking/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pgbooking/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_auth/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0002_auto_20210409_2233.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0003_auto_20210409_2342.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0004_usermodel_dob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0005_auto_20210418_2137.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0006_auto_20210418_2200.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0007_auto_20210418_2214.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0008_usermodel_l_status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/0009_auto_20210418_2355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_auth/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/sms.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_auth/sms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/envelope-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/lock-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/person-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/icon/telephone-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/js/form_validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/img/hero-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/img/tabs-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/img/tabs-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/img/tabs-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/img/tabs-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/aos/aos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/aos/aos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap-icons/bootstrap-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap-icons/bootstrap-icons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap-icons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/css/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/css/boxicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/css/boxicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/css/transformations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/fonts/boxicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/fonts/boxicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/fonts/boxicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/fonts/boxicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/boxicons/fonts/boxicons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/glightbox/css/glightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/glightbox/css/glightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/glightbox/js/glightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/glightbox/js/glightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/purecounter/purecounter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.symbol.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/remixicon/remixicon.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/swiper/swiper-bundle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/static/user/vendor/swiper/swiper-bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_auth/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_auth/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_auth/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +153,9 @@
     </expand>
     <select />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="40240333">
       <usages-collector id="statistics.lifecycle.project">
@@ -69,22 +185,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="html" value="3" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="html" value="14" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="HTML" value="14" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -94,8 +214,91 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pgbooking/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="580">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <folding>
+                <element signature="e#783#785#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/sms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/templates/term.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2760">
+              <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/templates/privacy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="617">
+              <caret line="142" column="7" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/templates/Home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_auth/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -108,6 +311,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/user_auth/templates/privacy.html" />
+        <option value="$PROJECT_DIR$/user_auth/templates/term.html" />
+        <option value="$PROJECT_DIR$/user_auth/templates/Home.html" />
+        <option value="$PROJECT_DIR$/user_auth/models.py" />
+        <option value="$PROJECT_DIR$/user_auth/admin.py" />
+        <option value="$PROJECT_DIR$/user_auth/sms.py" />
+        <option value="$PROJECT_DIR$/user_auth/views.py" />
+        <option value="$PROJECT_DIR$/user_auth/urls.py" />
         <option value="$PROJECT_DIR$/pgbooking/settings.py" />
       </list>
     </option>
@@ -146,6 +357,12 @@
               <item name="PgBooking" type="462c0819:PsiDirectoryNode" />
               <item name="user_auth" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PgBooking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PgBooking" type="462c0819:PsiDirectoryNode" />
+              <item name="user_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +376,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,6 +397,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pgbooking.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -214,12 +433,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,10 +471,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pgbooking/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/templates/term.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/templates/privacy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="142" column="7" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/sms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_auth/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="e#783#785#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pgbooking/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="580">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
     </entry>

@@ -38,13 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'user_auth',
-    'django.contrib.sites',
-
-    'allauth',
-    'allauth.account',
-    'allauth.socialaccount',
-    'allauth.socialaccount.providers.google',
-    'allauth.socialaccount.providers.facebook',
 ]
 
 MIDDLEWARE = [
@@ -86,36 +79,35 @@ WSGI_APPLICATION = 'pgbooking.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
-# DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.sqlite3',
-#        'NAME': os.path.join(BASE_DIR, 'pgbookdb.sqlite3'),
-#    }
-# }
-
 DATABASES = {
-
-    'default': {
-
-        'ENGINE': 'django.db.backends.postgresql',
-
-        'NAME': 'dd0sjn36h8j13',
-
-        'USER': 'eybjdunwrvkjus',
-
-        'PASSWORD': '6da06719731b09996fbbb140169e79baa10d6bf0a2fb0b757288cd5e50ac158d',
-
-        'HOST': 'ec2-107-22-83-3.compute-1.amazonaws.com',
-
-        'PORT': '5432',
-
-    }
-
+   'default': {
+       'ENGINE': 'django.db.backends.sqlite3',
+       'NAME': os.path.join(BASE_DIR, 'ishani.sqlite3'),
+   }
 }
+
+# DATABASES = {
+#
+#     'default': {
+#
+#         'ENGINE': 'django.db.backends.postgresql',
+#
+#         'NAME': 'dd0sjn36h8j13',
+#
+#         'USER': 'eybjdunwrvkjus',
+#
+#         'PASSWORD': '6da06719731b09996fbbb140169e79baa10d6bf0a2fb0b757288cd5e50ac158d',
+#
+#         'HOST': 'ec2-107-22-83-3.compute-1.amazonaws.com',
+#
+#         'PORT': '5432',
+#
+#     }
+#
+# }
 
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
-    'allauth.account.auth_backends.AuthenticationBackend',
 ]
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
