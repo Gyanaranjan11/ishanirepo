@@ -25,7 +25,7 @@ SECRET_KEY = '6df*q&+@d$so(9*=2g06cbe45*^qyqh4i%7sn-_wdg3-4@v6(t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bookingpg.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
