@@ -1,0 +1,45 @@
+{% extends "user/base.html" %}
+{% block title %}PG Booking | Change Password {% endblock title %}
+{% load static %}
+{% block content %}
+
+<div class="main" style="margin-top: 15px;">
+
+<section class="sign-in">
+<div class="container cls1">
+<div class="signin-content">
+  <div class="container">
+  <div class="row">
+    <h3 style="text-align: center;color: blue;margin-top: -20px;">Forgot Password</h3><br><br>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12">
+  <form action="" method="post" class="form-control was-validated p-4">
+                {% csrf_token %}
+  <b>Email Id :</b><br><br>
+<input type="text" class="form-control" placeholder="email or mobile no" required name="u_email" autocomplete="off">
+<!-- <div class="valid-feedback">Valid.</div> -->
+{% for msg in messages %}
+  <p style="color:red;">{{msg}}</p>
+{% endfor %}
+<br>
+<center>
+<button type="submit" class="btn btn-primary">Enter</button>
+</center>
+</form>
+</div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <a href="" style="color:blue;float: right;margin-bottom: -20px;margin-top: 20px;">back to login.</a>
+    </div>
+</div>
+
+</div>
+
+</div>
+</div>
+</section>
+</div>
+{% endblock content %}
